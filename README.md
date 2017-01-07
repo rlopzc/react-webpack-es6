@@ -5,3 +5,8 @@
 - Webpack
 - Webpack Hot Module Replacement (HMR)
 - ES6
+
+#### Usage
+- Clone repo
+- `$ npm install`
+- `$ npm run start`
