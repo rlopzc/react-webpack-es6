@@ -10,3 +10,4 @@
 - Clone repo
 - `$ npm install`
 - `$ npm run start`
+- Go to [localhost:8080](http://localhost:8080/)
